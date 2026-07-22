@@ -2,17 +2,17 @@
 title: Privacy Policy
 ---
 
-# Nocturne Habit Tracker — Privacy Policy
+# Hexis Habit Tracker — Privacy Policy
 
 _Last updated: 22 July 2026_
 
-Nocturne is a calm, private habit tracker for iOS and watchOS. It is built to keep
+Hexis is a calm, private habit tracker for iOS and watchOS. It is built to keep
 your data yours. This page explains, in plain terms, what the app does and does
 not do with your information.
 
 ## The short version
 
-- **We don't collect anything.** Nocturne has no accounts, no analytics, no ads,
+- **We don't collect anything.** Hexis has no accounts, no analytics, no ads,
   no tracking, and no third‑party SDKs. The developer never receives your data.
 - Your habits and history live **on your device**, and — only if you leave iCloud
   sync on — in **your own private iCloud account**.
@@ -61,7 +61,7 @@ don't want to be public. Filing an issue is entirely optional.
 
 ## Children's privacy
 
-Nocturne does not knowingly collect data from anyone, including children, because
+Hexis does not knowingly collect data from anyone, including children, because
 it does not collect data at all.
 
 ## Changes
@@ -71,4 +71,4 @@ If this policy changes, the updated version will be posted here with a new date.
 ## Contact
 
 Questions about privacy? Open an issue on the
-[project's issue tracker](https://github.com/stavrop/nocturne-habit-tracker/issues).
+[project's issue tracker](https://github.com/stavrop/hexis-habit-tracker/issues).
